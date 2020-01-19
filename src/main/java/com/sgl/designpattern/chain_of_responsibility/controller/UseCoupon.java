@@ -16,7 +16,7 @@ import java.util.List;
 /**
  *@ClassName UseCoupon
  *@Description TODO  消费优惠券  -------  责任链模式
- *@Author Ni Klaus
+ *@Author sgl
  *@Date 2019/9/24 0024 下午 15:02
  *@Version 1.0
  */
